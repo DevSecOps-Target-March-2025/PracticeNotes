@@ -1,0 +1,56 @@
+Day 1:
+
+Topics:
+
+1.SDLC
+2.Waterfalls vs Agile vs DevSecOps
+3.What is Devops?
+4.Linux
+
+1. SDLC -> Software Development Life Cycle:
+
+SDLC stands for Software Development Life Cycle. It is a structured process used by software developers to design, develop, test, and deploy software applications. The SDLC outlines the stages and activities required to deliver a high-quality software product efficiently. These stages typically include:
+
+Planning: Define project scope, objectives, and requirements.
+Design: Create software architecture and design specifications.
+Development: Write the code and implement features.
+Testing: Test for bugs and ensure the software works as expected.
+Deployment: Release the software to users.
+Maintenance: Update and fix issues after deployment.
+
+The SDLC ensures that software is developed in a systematic and organized manner, meeting user needs and quality standards.
+
+2. Waterfalls vs Agile vs DevSecOps:
+
+Waterfall Model:
+The Waterfall Model is a traditional, linear approach to software development where each phase (planning, design, development, testing, deployment, and maintenance) is completed before moving to the next. It is a sequential process, and changes are difficult to implement once a phase is completed. This model works well for projects with well-defined requirements.
+
+Agile:
+Agile is an iterative and flexible software development approach. It focuses on delivering small, functional pieces of the software frequently through short cycles (called sprints). Agile allows for continuous feedback, and changes can be incorporated during the development process. It's ideal for projects with evolving requirements and a focus on collaboration.
+
+DevSecOps:
+DevSecOps integrates security practices within the DevOps pipeline. It ensures that security is built into every stage of the software development lifecycle, from planning to deployment, rather than being a separate process. The goal is to deliver secure software quickly while maintaining collaboration between development, security, and operations teams.
+
+Key Differences:
+Waterfall vs. Agile:
+Waterfall is sequential, rigid, and works best with fixed requirements.
+Agile is iterative, flexible, and allows for changes and continuous feedback.
+
+Agile vs. DevSecOps:
+Agile focuses on iterative development and flexibility in meeting changing requirements.
+DevSecOps emphasizes integrating security into the development process while maintaining speed and collaboration.
+
+Waterfall vs. DevSecOps:
+Waterfall is focused on following strict phases with limited flexibility.
+DevSecOps involves continuous integration, deployment, and security measures throughout development.
+
+3. What is DevOps?
+DevOps is a process of building, testing and releasing code on the same day when developer writes something. Through this process we can achive collaboration, co-ordination, comminication between teams, reduce number of defects and go for faster releases.
+
+Speed and Accuracy
+
+DEV, PROD
+DEV, QA, PROD
+DEV, QA, UAT, PRE-PROD, PROD
+DEV, QA, UAT, PERF, SECURITY, PRE-PROD, PROD
+
