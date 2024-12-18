@@ -1,0 +1,42 @@
+Linux:
+============
+
+EC2 - Elastic Cloud Computing
+Instance = server = node
+Firewall: security group
+Inbound -> Incoming Traffic
+Outbound -> Outgoing Traffic
+0.0.0.0/0 -> Every computer in the internet
+AMI - 
+(devops-practice) - AMI - Amazon Machine Image
+.ISO - It will create entire operating system - C:\Windows
+Redhat Enterprise Linux = Centos = Amazon Enterprise Linux = Fedora = AlmaLinux
+Linus Torvalds - Inventor of Linux
+
+Linux Implementations = Distributions = Flavours
+================================
+RHEL - Not free. Its commercial
+IBM AIX
+Ubuntu
+Fedora
+Solaris
+Suse
+
+t3/t2.micro - Free, rest all will be payble
+AWS Linux 2023 AMI - Free
+
+Key Pair:
+
+Authentication:
+=================
+1. what you know --> UserName and Password
+2. What you have --> UserName and Token/OTP
+3. What you are --> Fingerprints, Retina, Palm..etc
+
+Public Key and Private Key:
+
+For Creating Public / Private Keys
+$ ssh-keygen -f <FileName>
+Example: ssh-keygen -f devops
+
+
